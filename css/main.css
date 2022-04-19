@@ -1,0 +1,28 @@
+/* selector universal */
+*{
+    color: #252526;
+}
+/* selector por nombre de la etiqueta */
+body{
+    background-color: beige;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-weight: 700;
+}
+/* selectores de padre a hijo */
+/* section p{
+    color: red;
+} */
+div div div{
+    background-color: pink;
+}
+/* clases e identificadores */
+.letra-roja{
+    color: red;
+}
+#otro-texto{
+    color: blue;
+}
