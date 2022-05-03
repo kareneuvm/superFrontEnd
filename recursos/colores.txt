@@ -1,0 +1,7 @@
+Colores
+Turquesa: #65c0ba
+Gris: #6c757d
+Fondo gris: #FAFAFA
+Borde gris: #e0e0e0
+Fondo turquesa: #65c0ba
+Fondo footer: #1A1A1A
